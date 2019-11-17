@@ -1,0 +1,26 @@
+c:\users\alexei\documents\visual studio 2010\Projects\WinSockServer\WinSockServer\bin\Debug\WinSockServer.dll
+c:\users\alexei\documents\visual studio 2010\Projects\WinSockServer\WinSockServer\bin\Debug\WinSockServer.pdb
+c:\users\alexei\documents\visual studio 2010\Projects\WinSockServer\WinSockServer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\alexei\documents\visual studio 2010\Projects\WinSockServer\WinSockServer\obj\Debug\WinSockServer.dll
+c:\users\alexei\documents\visual studio 2010\Projects\WinSockServer\WinSockServer\obj\Debug\WinSockServer.pdb
+C:\Users\Alexei\Documents\Visual Studio 2010\WinSockServer\WinSockServer\bin\Debug\WinSockServer.dll
+C:\Users\Alexei\Documents\Visual Studio 2010\WinSockServer\WinSockServer\bin\Debug\WinSockServer.pdb
+C:\Users\Alexei\Documents\Visual Studio 2010\WinSockServer\WinSockServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexei\Documents\Visual Studio 2010\WinSockServer\WinSockServer\obj\Debug\WinSockServer.dll
+C:\Users\Alexei\Documents\Visual Studio 2010\WinSockServer\WinSockServer\obj\Debug\WinSockServer.pdb
+C:\Users\alexei\Documents\WinSockServer\WinSockServer\bin\Debug\WinSockServer.dll
+C:\Users\alexei\Documents\WinSockServer\WinSockServer\bin\Debug\WinSockServer.pdb
+C:\Users\alexei\Documents\WinSockServer\WinSockServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alexei\Documents\WinSockServer\WinSockServer\obj\Debug\WinSockServer.dll
+C:\Users\alexei\Documents\WinSockServer\WinSockServer\obj\Debug\WinSockServer.pdb
+D:\Trabajo\WinSockServer\WinSockServer\bin\Debug\WinSockServer.dll
+D:\Trabajo\WinSockServer\WinSockServer\bin\Debug\WinSockServer.pdb
+D:\Trabajo\WinSockServer\WinSockServer\obj\Debug\WinSockServer.dll
+D:\Trabajo\WinSockServer\WinSockServer\obj\Debug\WinSockServer.pdb
+N:\WinSockServer\WinSockServer\bin\Debug\WinSockServer.dll
+N:\WinSockServer\WinSockServer\bin\Debug\WinSockServer.pdb
+N:\WinSockServer\WinSockServer\obj\Debug\WinSockServer.csprojResolveAssemblyReference.cache
+N:\WinSockServer\WinSockServer\obj\Debug\WinSockServer.csproj.CoreCompileInputs.cache
+N:\WinSockServer\WinSockServer\obj\Debug\WinSockServer.dll
+N:\WinSockServer\WinSockServer\obj\Debug\WinSockServer.pdb
+D:\Trabajo\WinSockServer\WinSockServer\obj\Debug\WinSockServer.csprojAssemblyReference.cache
